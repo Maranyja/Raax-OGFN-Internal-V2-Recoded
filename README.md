@@ -170,10 +170,10 @@ Here you can see the performance of V2 against V1, both tested on Release_ImGui.
 
 ## Credits
 **Main Developer**  
+Maslo2116 Recoded Menu
 Raax (me)
 
 **Contributors**
-Me Recoded Menu
 [Toxy](https://github.com/Toxy121) - SDK improvements  
 [NotTacs](https://github.com/NotTacs) - Llama & supply drop ESP  
 [parkie](https://github.com/mlodyskiny) - GUI improvements  
