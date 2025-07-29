@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "onlyfans", "OGFN-Internal-V2.vcxproj", "{131220A3-7773-4A71-9C92-13BC75D73646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Engine|x64 = Debug_Engine|x64
+		Debug_ImGui|x64 = Debug_ImGui|x64
+		Release_Engine|x64 = Release_Engine|x64
+		Release_ImGui|x64 = Release_ImGui|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131220A3-7773-4A71-9C92-13BC75D73646}.Debug_Engine|x64.ActiveCfg = Debug_Engine|x64
+		{131220A3-7773-4A71-9C92-13BC75D73646}.Debug_Engine|x64.Build.0 = Debug_Engine|x64
+		{131220A3-7773-4A71-9C92-13BC75D73646}.Debug_ImGui|x64.ActiveCfg = Debug_ImGui|x64
+		{131220A3-7773-4A71-9C92-13BC75D73646}.Debug_ImGui|x64.Build.0 = Debug_ImGui|x64
+		{131220A3-7773-4A71-9C92-13BC75D73646}.Release_Engine|x64.ActiveCfg = Release_Engine|x64
+		{131220A3-7773-4A71-9C92-13BC75D73646}.Release_Engine|x64.Build.0 = Release_Engine|x64
+		{131220A3-7773-4A71-9C92-13BC75D73646}.Release_ImGui|x64.ActiveCfg = Release_ImGui|x64
+		{131220A3-7773-4A71-9C92-13BC75D73646}.Release_ImGui|x64.Build.0 = Release_ImGui|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCE69DC9-2946-471D-8C33-AFBDC4D1A877}
+	EndGlobalSection
+EndGlobal
