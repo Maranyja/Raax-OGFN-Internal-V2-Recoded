@@ -37,9 +37,9 @@ But the longer it was out there, the more I started hating it. The source code i
 Feel free to use this however you want. I'd even recommend it as a general UE4/UE5 internal base - it's much more modular and easier to work with once you get familiar with the structure.
 
 
-## Media
+## Menu SS
 
-https://www.youtube.com/watch?v=_zDw2-_H8gs
+https://cdn.discordapp.com/attachments/1262761253554618441/1399820740936863927/image.png?ex=688a6428&is=688912a8&hm=2e07365c96716ed39f18e33f6d9c72011b3295ef55e2e08416de9221cbd11307&
 
 
 ## Performance
@@ -172,7 +172,8 @@ Here you can see the performance of V2 against V1, both tested on Release_ImGui.
 **Main Developer**  
 Raax (me)
 
-**Contributors**  
+**Contributors**
+Me Recoded Menu
 [Toxy](https://github.com/Toxy121) - SDK improvements  
 [NotTacs](https://github.com/NotTacs) - Llama & supply drop ESP  
 [parkie](https://github.com/mlodyskiny) - GUI improvements  
